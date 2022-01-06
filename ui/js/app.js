@@ -33,10 +33,12 @@ $('#errorbox').hide()
     //  updateSignInButtonUI();
     });
 
-  var aadhaar_no_phone_no = {
-  	"7382537xxxxx": "915801xxxx",
-  	"300000000000": "7276xxxxxx",
-	"<replace your aadhaar no here>": "<your phone number>",
+  var aadhaar_no_phone_no = {,
+  	"376525846727645":"8790273645",
+	"896996291233": "9494940058",
+	  "639342545423":"9182487650",
+	  "898464528052":"7358533135",
+	  "659432568021":"7095663880",
   }
 
 
